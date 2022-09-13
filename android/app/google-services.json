@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "445900814761",
+    "firebase_url": "https://water-level-7ea9e-default-rtdb.firebaseio.com",
+    "project_id": "water-level-7ea9e",
+    "storage_bucket": "water-level-7ea9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445900814761:android:70d1138cafb0f529bf6cb8",
+        "android_client_info": {
+          "package_name": "com.dalystTek.water_level_indicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlTE7792IfJBZJNu2NeBCR39W2h68PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445900814761-4behc8oi4mafoj9lo0opjghtc3krm1ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterMonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445900814761:android:9749abd172143aeabf6cb8",
+        "android_client_info": {
+          "package_name": "com.example.api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlTE7792IfJBZJNu2NeBCR39W2h68PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445900814761-4behc8oi4mafoj9lo0opjghtc3krm1ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterMonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445900814761:android:bd562f718d610aadbf6cb8",
+        "android_client_info": {
+          "package_name": "com.example.water_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlTE7792IfJBZJNu2NeBCR39W2h68PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445900814761-4behc8oi4mafoj9lo0opjghtc3krm1ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterMonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445900814761:android:7c2a42e51a81c7bebf6cb8",
+        "android_client_info": {
+          "package_name": "com.example.watwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlTE7792IfJBZJNu2NeBCR39W2h68PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445900814761-7p6t32pa4080likr780038pckgrgih8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445900814761-4behc8oi4mafoj9lo0opjghtc3krm1ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterMonitor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
